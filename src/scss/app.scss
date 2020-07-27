@@ -28,13 +28,15 @@ body {
   &__items {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: flex-start;
   }
 
   &__top {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
   }
 }
 

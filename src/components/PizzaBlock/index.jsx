@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import classNames from 'classnames';
 
 function PizzaBlock({ name, imageUrl, price, types, sizes }) {
@@ -70,22 +69,5 @@ function PizzaBlock({ name, imageUrl, price, types, sizes }) {
     </div>
   );
 }
-
-PizzaBlock.propTypes = {
-  name: PropTypes.string,
-  imageUrl: PropTypes.string,
-  price: PropTypes.number,
-  types: PropTypes.arrayOf(PropTypes.number),
-  sizes: PropTypes.arrayOf(PropTypes.number),
-};
-
-PizzaBlock.defaultProps = {
-  name: '---',
-  imageUrl:
-    'https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg',
-  price: 0,
-  types: [],
-  sizes: [],
-};
 
 export default PizzaBlock;
