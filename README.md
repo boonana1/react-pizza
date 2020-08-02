@@ -1,3 +1,9 @@
+## React Pizza
+
+Проект с курса по разработке [интернет-магазина пиц React Pizza](https://www.youtube.com/playlist?list=PL0FGkDGJQjJFMRmP7wZ771m1Nx-m2_qXq)
+
+# ...
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
