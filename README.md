@@ -4,13 +4,13 @@
 
 Stack:
 
-*ul ReactJS + хуки
-*ul React Router
-*ul Redux
-*ul Redux thunk
-*ul json-server
-*ul Axios
-*ul classnames
+- ReactJS + хуки
++ React Router
++ Redux
++ Redux thunk
++ json-server
++ Axios
++ classnames
 
 # ...
 
