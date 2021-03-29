@@ -4,7 +4,7 @@
 
 Stack:
 
-- ReactJS + хуки
++ ReactJS + хуки
 + React Router
 + Redux
 + Redux thunk
